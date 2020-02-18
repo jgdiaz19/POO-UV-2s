@@ -2,7 +2,7 @@
 
 #### Temario del curso:
 
-**Tema 1. Entorno y lenguaje de programacion**
+**Tema 1. Entorno y lenguaje de programacion** [Guia de estudio](POO-GPE_Tema_01_UV.doc)
 - El lenguaje de programación Java
 - La plataforma Java
 - Tipos de programas en Java
