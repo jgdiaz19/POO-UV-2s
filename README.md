@@ -1,6 +1,6 @@
 ### Material de referencia para la materia de Programacion en JAVA
 
-###### Temario del curso:
+#### Temario del curso:
 
 **Tema 1. Entorno y lenguaje de programacion**
 - El lenguaje de programación Java
