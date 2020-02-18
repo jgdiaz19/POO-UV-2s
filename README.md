@@ -3,11 +3,11 @@
 ####### Temario del curso:
 
 **Tema 1. Entorno y lenguaje de programacion**
-    - El lenguaje de programación Java
-    - La plataforma Java
-    - Tipos de programas en Java
-    - Compilación y ejecución de programas
-    - Creación de aplicaciones con el JDK
+- El lenguaje de programación Java
+- La plataforma Java
+- Tipos de programas en Java
+- Compilación y ejecución de programas
+- Creación de aplicaciones con el JDK
   
 **Tema 2. Fundamentos y sintaxis del lenguaje**
     Comentarios
